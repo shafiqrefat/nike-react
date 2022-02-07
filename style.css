@@ -1,0 +1,71 @@
+@import url("https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
+.nav-link {
+  font-family: "Roboto", sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+  color: #3c3c3c;
+}
+h1 {
+  font-family: "Bebas Neue", cursive;
+  color: #363958;
+}
+.main-title {
+  font-weight: 700;
+  font-size: 80px;
+}
+.banner-right {
+  width: 400px;
+}
+h3 {
+  font-family: "Roboto", sans-serif;
+  font-size: 24px;
+  font-weight: 700;
+  color: #363958;
+}
+h5 {
+  font-family: "Roboto", sans-serif;
+  font-weight: 700;
+  color: #363958;
+}
+p {
+  font-family: "Roboto", sans-serif;
+  font-size: 16px;
+}
+.button {
+  background-color: #3a4be0;
+  color: #fff;
+  width: 170px;
+  height: 60px;
+  border: none;
+  border-radius: 20px;
+  font-weight: 600;
+}
+#casual-shoes {
+  margin-top: 100px !important;
+}
+.price {
+  font-family: "Roboto";
+  font-size: 26px;
+  font-weight: 700;
+  text-align: left;
+  color: #fa804c;
+}
+.last-image {
+  width: 78px;
+  height: 82px;
+  display: block;
+  margin: auto;
+}
+.img-bg {
+  background-color: #f1f1f1;
+  border-radius: 20px;
+}
+.card {
+  border-radius: 20px;
+}
+@media (min-width: 768px) {
+  #casual-shoes {
+    margin-top: 3rem !important;
+  }
+}
